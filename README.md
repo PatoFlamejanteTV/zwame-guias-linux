@@ -10,4 +10,14 @@ Pedidos de junção diretos também são possíveis, mas é preferível que seja
 
 Eu não tenho qualquer afiliação à moderação da ZWAME, trato-me apenas de um membro da comunidade.
 
+- [guias/](guias)
+  - [Ambientes de desenvolvimento](ambientes)
+  - [Como escolher sua (primeira) Distribuição Linux](distros)
+  - [Como executar aplicativos de WIndows no Linux (_"emulação", entre bilhões de aspas_)](emulacao_windows)
+  - [Estrutura do sistema](estrutura)
+  - [Como _(não)_ ser um bom membro da comunidade](etica)
+  - [Guia dos guias](guia)
+  - [Como instalar software e utilizar gestores de pacotes?](instalar)
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional</a>.
